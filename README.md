@@ -2,5 +2,5 @@
 
 Hello humans
 My name is Lale and I am a new here. 
-I was between "hello world" and "earth is flat - well then be careful not to fall of!" statements, but whatever the guide says, the gal does.
+I was between "Hello world!" and "Earth is flat. - Well then be careful not to fall off!" statements, but whatever the guide says, the gal does.
 Ciao!
